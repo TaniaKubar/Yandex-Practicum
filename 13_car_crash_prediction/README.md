@@ -7,4 +7,4 @@
 ## Задача
 На основе исторических данных из базы данных построить модель, определяющую риск водителя стать виновником ДТП, при условии что ДТП точно наступит. Выявить и проанализировать причины возникновения аварий.
 ## Используемые библиотеки
-*pandas numpy seaborn matplotlib sqlalchemy sklearn lightgbm catboost
+*pandas numpy seaborn matplotlib sqlalchemy sklearn lightgbm catboost*
